@@ -32,7 +32,7 @@ class YouTubeDebugger extends React.Component {
             <div>
                 <button onClick={this.handleChangeBitrate}>Change Bitrate</button>
             </div>
-        )
+        );
     }
     
 
